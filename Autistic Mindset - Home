@@ -1,0 +1,45 @@
+<div style="width: 1920px; height: 1071px; position: relative; border-radius: 30px; overflow: hidden">
+  <div style="width: 1920px; height: 1201px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%); background-image: url(https://via.placeholder.com/1920x1201)">
+    <div style="width: 1920px; height: 117.47px; left: 0px; top: -24px; position: absolute; background: #EDAE74; box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.06)">
+      <div style="width: 154px; height: 34px; left: 1428px; top: 47px; position: absolute; color: white; font-size: 40px; font-family: Oleo Script; font-weight: 400; line-height: 28px; word-wrap: break-word">MindBot</div>
+      <div style="width: 178px; height: 39px; left: 1635px; top: 47px; position: absolute; color: white; font-size: 40px; font-family: Oleo Script; font-weight: 400; line-height: 28px; word-wrap: break-word">community</div>
+      <div style="width: 235px; height: 55px; left: 1140px; top: 36px; position: absolute; color: white; font-size: 40px; font-family: Oleo Script; font-weight: 400; line-height: 28px; word-wrap: break-word">specialist care</div>
+    </div>
+    <div style="width: 190.08px; height: 48px; padding-top: 7px; padding-bottom: 8px; padding-left: 18px; padding-right: 17.80px; left: 1713px; top: 1003px; position: absolute; border-radius: 8px; border: 2px #111827 solid; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 154.28px; height: 33px; color: #111827; font-size: 24px; font-family: Open Sans; font-weight: 400; line-height: 32px; word-wrap: break-word">sign in / log in</div>
+    </div>
+    <div style="width: 745px; height: 291px; left: 245px; top: 492px; position: absolute; color: white; font-size: 76px; font-family: Stoke; font-weight: 400; line-height: 80px; word-wrap: break-word">Autism is Not A<br/>Disability</div>
+    <div style="width: 125px; height: 42px; padding-left: 18px; padding-right: 17px; left: 36px; top: 1001px; position: absolute; border-radius: 8px; border: 2px #111827 solid; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 90px; height: 42px; color: #111827; font-size: 22px; font-family: Oleo Script; font-weight: 400; line-height: 28px; word-wrap: break-word">more info</div>
+    </div>
+  </div>
+  <div style="left: 140px; top: -1px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div style="width: 372px; height: 91px; position: relative">
+      <div style="width: 259px; height: 55px; left: 113px; top: 12px; position: absolute; color: white; font-size: 46px; font-family: Hermeneus One; font-weight: 400; line-height: 26.74px; word-wrap: break-word">Autistic<br/>mindset</div>
+      <div style="width: 105px; height: 91px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 96px; height: 62.40px; background: white"></div>
+        <div style="width: 50.27px; height: 49.40px; background: white"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 669px; height: 76px; padding: 20px; left: 1040px; top: 445px; position: absolute; background: #C98F68; box-shadow: 0px 0px 10px rgba(139.13, 11.40, 171.06, 0.25); border-radius: 10px; border: 2px #677289 solid; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; color: black; font-size: 28px; font-family: Martel Sans; font-weight: 600; word-wrap: break-word">our services </div>
+    <div style="width: 40px; height: 40px; padding-left: 11.67px; padding-right: 11.67px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16.67px; height: 8.33px; border: 4px rgba(0, 0, 0, 0.25) solid"></div>
+    </div>
+  </div>
+  <div style="width: 650px; height: 251px; padding: 20px; left: 1050px; top: 560px; position: absolute; background: white; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25); border-radius: 10px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 665px; height: 109px; padding-top: 20px; padding-bottom: 20px; padding-left: 20px; padding-right: 50px; background: #9C9CAA; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="flex: 1 1 0; align-self: stretch; color: black; font-size: 34px; font-family: PT Sans Narrow; font-weight: 400; line-height: 18px; letter-spacing: 1.02px; word-wrap: break-word">recommendation of ASD special care  </div>
+      <div style="width: 30px; height: 30px; padding-left: 3.53px; padding-right: 3.53px; padding-top: 0.51px; padding-bottom: 0.51px; justify-content: center; align-items: center; display: flex">
+        <div style="width: 22.93px; height: 28.99px; background: black"></div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 76px; padding: 20px; background: white; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="width: 632px; height: 91px; color: black; font-size: 34px; font-family: PT Sans Narrow; font-weight: 400; line-height: 18px; letter-spacing: 1.02px; word-wrap: break-word">talk to MindChat about kids behaviors  </div>
+    </div>
+    <div style="align-self: stretch; height: 76px; padding: 20px; background: white; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="width: 609px; align-self: stretch; color: black; font-size: 34px; font-family: PT Sans Narrow; font-weight: 400; line-height: 18px; letter-spacing: 1.02px; word-wrap: break-word">join our ASD community </div>
+    </div>
+  </div>
+</div>
